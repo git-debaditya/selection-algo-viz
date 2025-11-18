@@ -1,7 +1,7 @@
 {
   "name": "selection-algo-viz",
   "version": "0.1.0",
-  "homepage": "https://git-debaditya.github.io/Selection-Algo-Viz",
+  "homepage": "https://git-debaditya.github.io/selection-algo-viz",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
